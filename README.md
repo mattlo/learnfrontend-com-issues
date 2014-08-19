@@ -2,6 +2,8 @@
 
 A repository solely for hosting learnfrontend-com defects.
 
+**QA link will be activated on 8/25/14**
+
 ## Instructions
 - Find a defect
 - Create a new issue within this repository
@@ -9,6 +11,11 @@ A repository solely for hosting learnfrontend-com defects.
   - Upload a screenshot
   - Provide a title and summary
   - Provide browser version
+
+## Test Subscription Info
+- Credit Card: 4242 4242 4242 4242
+- Expiration: 12 / 33
+- CVC: 123
 
 ## Technical Information
 - URL: https://qa.learnfrontend.com
