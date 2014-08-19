@@ -2,7 +2,7 @@
 
 A repository solely for hosting learnfrontend-com defects. Anyone who reports meaningful bugs will be rewarded in coffee or a Starbucks giftcard. Otherwise feel free to just browse the site. Test content will only be available on the QA instance.
 
-You will need to request access to report issues.
+You will need to request access to report issues (email mlo@learnfrontend.com for the invite).
 
 **QA link will be activated on 8/25/14**
 
