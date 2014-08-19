@@ -3,6 +3,7 @@
 A repository solely for hosting learnfrontend-com defects.
 
 ## Technical Information
+- URL: https://qa.learnfrontend.com
 - Browser support
   - IE9+
   - Chrome 28+
