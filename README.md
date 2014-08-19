@@ -2,6 +2,14 @@
 
 A repository solely for hosting learnfrontend-com defects.
 
+## Instructions
+- Find a defect
+- Create a new issue within this repository
+  - Assign it to `mattlo`
+  - Upload a screenshot
+  - Provide a title and summary
+  - Provide browser version
+
 ## Technical Information
 - URL: https://qa.learnfrontend.com
 - Browser support
