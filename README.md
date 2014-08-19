@@ -7,7 +7,7 @@ You will need to request access to report issues (email mlo@learnfrontend.com fo
 **QA link will be activated on 8/25/14**
 
 ## Instructions
-- Find a defect
+- Find something that looks broken, or just try to break the site. (Please don't DDoS or else I will destory you).
 - Create a new issue within this repository
   - Assign it to `mattlo`
   - Upload a screenshot
