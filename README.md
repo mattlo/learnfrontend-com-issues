@@ -4,7 +4,7 @@ A repository solely for hosting learnfrontend-com defects. Anyone who reports me
 
 You will need to request access to report issues (email mlo@learnfrontend.com for the invite).
 
-**QA link will be activated on 8/25/14 11pm CST**
+**QA link will be activated on 8/25/14 11:59pm CST**
 
 ## Instructions
 - Find something that looks broken, or just try to break the site. Please don't DDoS or else I will destroy you (QA instance is on a fixed resource allocation).
