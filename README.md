@@ -4,9 +4,9 @@ A repository solely for hosting learnfrontend-com defects. Anyone who reports me
 
 You will need to request access to report issues (email mlo@learnfrontend.com for the invite).
 
-**Credentials** 
-Username: Admin 
-Password: Admin 
+**Credentials**   
+Username: Admin   
+Password: Admin   
 
 Also dummy content is still being loaded up.
 
