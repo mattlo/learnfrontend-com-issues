@@ -10,6 +10,8 @@ Password: admin
 
 **Also dummy content is still being loaded up.**
 
+URL: http://qa.learnfrontend.com
+
 ## Instructions
 - Find something that looks broken, or just try to break the site. Please don't DDoS or else I will destroy you (QA instance is on a fixed resource allocation).
 - Create a new issue within this repository
@@ -24,7 +26,7 @@ Password: admin
 - CVC: 123
 
 ## Technical Information
-- URL: https://qa.learnfrontend.com
+- URL: http://qa.learnfrontend.com
 - Browser support
   - IE9+
   - Chrome 28+
