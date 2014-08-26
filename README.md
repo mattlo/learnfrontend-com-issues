@@ -8,7 +8,7 @@ You will need to request access to report issues (email mlo@learnfrontend.com fo
 Username: admin   
 Password: admin   
 
-**Also dummy content is still being loaded up.**
+**Dummy content is still being loaded up. Also homepage refresh will be applied sometime end of week. Public QA ends before labor day weekend**
 
 URL: http://qa.learnfrontend.com
 
