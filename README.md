@@ -1,6 +1,6 @@
 #LearnFrontEnd.com Issues
 
-A repository solely for hosting learnfrontend-com defects. Anyone who reports meaningful bugs will be rewarded in coffee or a Starbucks giftcard. Otherwise feel free to just browse the site. Test content will only be available on the QA instance.
+A repository solely for hosting learnfrontend-com defects. All content (including tags) are for-placement-only.
 
 You will need to request access to report issues (email mlo@learnfrontend.com for the invite).
 
@@ -9,14 +9,6 @@ Username: admin
 Password: admin   
 
 URL: http://qa.learnfrontend.com
-
-## Instructions
-- Find something that looks broken, or just try to break the site. Please don't DDoS or else I will destroy you (QA instance is on a fixed resource allocation).
-- Create a new issue within this repository
-  - Assign it to `mattlo`
-  - Upload a screenshot
-  - Provide a title and summary
-  - Provide browser version
 
 ## Test Subscription Info
 - Credit Card: 4242 4242 4242 4242
